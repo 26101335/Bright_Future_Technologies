@@ -6,7 +6,7 @@ package brightfutureapplication;
 
 /**
  *
- * @author Max
+ * @author Chabalala Ngalava Naom 26101335
  */
 import java.util.ArrayList;
 import java.util.Scanner;
